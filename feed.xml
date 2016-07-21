@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Deepthi Venkitaramanan's Outreachy Blog</title>
+
+        <description>Deepthi Venkitaramanan's Outreachy Blog
+            <i><br>To add your RSS Feed to an RSS Reader:</br>
+            <br>From the RSS Feed XML file, copy the URL (ie. http://venkid.com/feed.xml) and
+            Paste the URL into the RSS Reader.</br></i>
+        </description>
+
+        <link>venkid.com/portfolio.html#Outreachy</link>
+        <atom:link href="http://venkid.com/feed.xml" rel="self" type="application/rss+xml" />
+
+        <item>
+            <title>RSS Feed for Outreachy Blog</title>
+            <link>venkid.com/portfolio.html#Outreachy101</link>
+            <guid>venkid.com/portfolio.html#Outreachy101</guid>
+            <pubDate>Saturday, 21 May 2016 00:00:00 MST</pubDate>
+        </item>
+
+    </channel>
+
+</rss>
