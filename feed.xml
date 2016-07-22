@@ -3,10 +3,10 @@
     <channel>
         <title>Deepthi Venkitaramanan's Outreachy Blog</title>
 
-        <description>Deepthi Venkitaramanan's Outreachy Blog
-            <i><br>To add your RSS Feed to an RSS Reader:</br>
-            <br>From the RSS Feed XML file, copy the URL (ie. http://venkid.com/feed.xml) and
-            Paste the URL into the RSS Reader.</br></i>
+        <description>"Deepthi Venkitaramanan's Outreachy Blog"
+            To add your RSS Feed to an RSS Reader:
+            From the RSS Feed XML file, copy the URL (ie. http://venkid.com/feed.xml) and
+            Paste the URL into the RSS Reader.
         </description>
 
         <link>venkid.com/portfolio.html#Outreachy</link>
