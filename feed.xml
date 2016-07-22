@@ -9,13 +9,13 @@
             Paste the URL into the RSS Reader.</br></i>
         </description>
 
-        <link>/portfolio.html#Outreachy</link>
+        <link>http://venkid.com/portfolio.html#Outreachy</link>
         <atom:link href="http://venkid.com/feed.xml" rel="self" type="application/rss+xml" />
 
         <item>
             <title>RSS Feed for Outreachy Blog</title>
-            <link>venkid.com/portfolio.html#Outreachy101</link>
-            <guid>venkid.com/portfolio.html#Outreachy101</guid>
+            <link>http://venkid.com/portfolio.html#Outreachy101</link>
+            <guid>http://venkid.com/portfolio.html#Outreachy101</guid>
             <pubDate>Saturday, 21 May 2016 00:00:00 MST</pubDate>
         </item>
 
